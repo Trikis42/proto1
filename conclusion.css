@@ -1,0 +1,25 @@
+#contenedor{
+        background-color:#F4ABF2;
+        border:2px solid #5878ca;
+}
+#cabecera{
+        background-color:#DCF4F2;
+        height:20%;
+
+}
+#izquierda{
+        height:50%;
+        background-color:#66E9C6;
+        float:left;
+        width:50%;
+}
+#derecha{
+        height:50%;
+        background-color:#17E2AC;
+        float:right;
+        width:50%;
+}
+#pie{
+        height:20%;
+        background-color:#DCF4F2;
+        clear:both;
